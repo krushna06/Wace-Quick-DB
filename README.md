@@ -22,7 +22,7 @@ Quick.db is an open-source package meant to provide an easy way for beginners an
 ## Installation
 
 ```bash
-npm i wace.quick.db
+npm i github:krushna06/Wace-Quick-DB
 ```
 
 <br>
